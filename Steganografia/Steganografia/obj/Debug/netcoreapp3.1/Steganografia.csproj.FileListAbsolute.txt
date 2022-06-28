@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Pliki\Steganografia\Steganografia\bin\Debug\netcoreapp3.1\Steganografia.exe
+C:\Users\user\Desktop\Pliki\Steganografia\Steganografia\bin\Debug\netcoreapp3.1\Steganografia.deps.json
+C:\Users\user\Desktop\Pliki\Steganografia\Steganografia\bin\Debug\netcoreapp3.1\Steganografia.runtimeconfig.json
+C:\Users\user\Desktop\Pliki\Steganografia\Steganografia\bin\Debug\netcoreapp3.1\Steganografia.runtimeconfig.dev.json
+C:\Users\user\Desktop\Pliki\Steganografia\Steganografia\bin\Debug\netcoreapp3.1\Steganografia.dll
+C:\Users\user\Desktop\Pliki\Steganografia\Steganografia\bin\Debug\netcoreapp3.1\Steganografia.pdb
+C:\Users\user\Desktop\Pliki\Steganografia\Steganografia\obj\Debug\netcoreapp3.1\Steganografia.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Pliki\Steganografia\Steganografia\obj\Debug\netcoreapp3.1\Steganografia.Form1.resources
+C:\Users\user\Desktop\Pliki\Steganografia\Steganografia\obj\Debug\netcoreapp3.1\Steganografia.Properties.Resources.resources
+C:\Users\user\Desktop\Pliki\Steganografia\Steganografia\obj\Debug\netcoreapp3.1\Steganografia.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Pliki\Steganografia\Steganografia\obj\Debug\netcoreapp3.1\Steganografia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Pliki\Steganografia\Steganografia\obj\Debug\netcoreapp3.1\Steganografia.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Pliki\Steganografia\Steganografia\obj\Debug\netcoreapp3.1\Steganografia.AssemblyInfo.cs
+C:\Users\user\Desktop\Pliki\Steganografia\Steganografia\obj\Debug\netcoreapp3.1\Steganografia.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pliki\Steganografia\Steganografia\obj\Debug\netcoreapp3.1\Steganografia.dll
+C:\Users\user\Desktop\Pliki\Steganografia\Steganografia\obj\Debug\netcoreapp3.1\Steganografia.pdb
+C:\Users\user\Desktop\Pliki\Steganografia\Steganografia\obj\Debug\netcoreapp3.1\Steganografia.genruntimeconfig.cache
